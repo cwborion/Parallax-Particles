@@ -25,4 +25,4 @@ Install the dependencies:
 npm install
 ```
 
-Open the index.html file in your browser to view the page and observe the features of Parallax.j and Particles.js
+Open the index.html file in your browser to view the page and observe the features of Parallax.js and Particles.js
