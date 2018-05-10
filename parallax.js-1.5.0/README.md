@@ -1,6 +1,6 @@
 # Parallax & Particles 
 
-<img src="https://i.imgur.com/19WymWU.gif"/>
+<img src="../Parallax-Particles.gif"/>
 
 A Sample Landing Page For An Intensive Sales Bootcamp
 
